@@ -2,7 +2,7 @@
 
 # Anuj Chauhan — Ph.D.
 
-### 🏭 Section Manager, Software R&D &nbsp;|&nbsp; Pegatron Corporation, Taipei
+### 🏭 Software R&D &nbsp;|&nbsp; Pegatron Corporation, Taipei
 ### 🎓 Ph.D. Chemistry · National Taiwan University (NTU) · 2019–2023
 
 <br>
