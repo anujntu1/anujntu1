@@ -287,6 +287,16 @@ Applied across: structural, CFD, thermal, aero domains
 
 ---
 
+## 🌐 Languages
+
+| Language | Proficiency |
+|----------|------------|
+| 🇬🇧 **English** | Professional Working Proficiency |
+| 🇮🇳 **Hindi** | Native Speaker |
+| 🇹🇼 **Mandarin** | Conversational — Daily Life & Work Environment |
+
+---
+
 ## 💼 Career Timeline
 
 ```
