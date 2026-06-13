@@ -1,7 +1,11 @@
 <div align="center">
 
 # Anuj Chauhan — Ph.D.
-### Industrial Simulation Engineer · Digital Twin Architect · Semiconductor Nanofabrication
+
+### 🏭 Section Manager, Software R&D &nbsp;|&nbsp; Pegatron Corporation, Taipei
+### 🎓 Ph.D. Chemistry · National Taiwan University (NTU) · 2019–2023
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anuj%20Chauhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-chauhan-phd-5a8ba411a/)
 [![Email](https://img.shields.io/badge/Email-anujntuchem%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anujntuchem@gmail.com)
@@ -15,9 +19,25 @@
 
 <div align="center">
 
+## 🔬 Core Expertise
+
+| 🖥️ Industrial Simulation | 🔷 Digital Twins | ⚡ Semiconductor |
+|:---:|:---:|:---:|
+| ANSYS Fluent · Mechanical | ANSYS ROM Prep | EBL · Photolithography |
+| LS-DYNA · Icepak | Twin Builder · PyTwin | RIE/ICP Plasma Etching |
+| CFD · FEA · Multi-physics | Sensor Fusion · Anomaly Detection | PVD · CVD · ALD |
+| SolidWorks · SpaceClaim | Real-time Digital Twin Deployment | SEM/TEM Metrology |
+
+</div>
+
+---
+
+<div align="center">
+
 > **Bridging the rare gap between nanoscale fabrication and industrial-scale simulation.**
 >
-> Full-pipeline ANSYS simulation engineer — from geometry preparation in SolidWorks & SpaceClaim, through high-fidelity FEA/CFD, to deployable Digital Twins via PyTwin.
+> Full-pipeline ANSYS simulation engineer — from geometry preparation in SolidWorks & SpaceClaim,
+> through high-fidelity FEA/CFD, to deployable Digital Twins via PyTwin.
 > Ph.D. researcher in nanophotonics with hands-on semiconductor cleanroom expertise.
 
 </div>
