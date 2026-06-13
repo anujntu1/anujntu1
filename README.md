@@ -64,6 +64,13 @@
 | ![](https://img.shields.io/badge/ANSYS%20SpaceClaim-FF6B35?style=flat-square) **ANSYS SpaceClaim** | CAD import & cleanup · Geometry defeaturing for FEA/CFD · Virtual wind tunnel · Fluid domain extraction · Feature suppression |
 | ![](https://img.shields.io/badge/ANSYS%20Workbench-FFB500?style=flat-square) **ANSYS Workbench** | Multi-tool project management · Parameter linking · System coupling |
 
+### Post-Processing & Visualization
+
+| Tool | Capability |
+|------|-----------|
+| ![](https://img.shields.io/badge/ANSYS%20EnSight-FFB500?style=flat-square) **ANSYS EnSight** | High-fidelity CFD/FEA post-processing · Volume rendering · Streamlines & particle traces · Transient animation · Large dataset handling · Export for reports |
+| ![](https://img.shields.io/badge/ParaView-4285F4?style=flat-square) **ParaView** | Open-source VTK-based visualization · CFD result analysis · Slice/isosurface/glyph rendering · Python scripting for batch post-processing · Cross-platform |
+
 ### Python & Automation
 
 | Tool | Capability |
