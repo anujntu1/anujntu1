@@ -34,11 +34,10 @@
 
 <div align="center">
 
-> **Bridging the rare gap between nanoscale fabrication and industrial-scale simulation.**
->
-> Full-pipeline ANSYS simulation engineer — from geometry preparation in SolidWorks & SpaceClaim,
-> through high-fidelity FEA/CFD, to deployable Digital Twins via PyTwin.
-> Ph.D. researcher in nanophotonics with hands-on semiconductor cleanroom expertise.
+*Bridging the rare gap between nanoscale fabrication and industrial-scale simulation.*
+
+**Full-pipeline ANSYS simulation engineer** — SolidWorks & SpaceClaim → FEA/CFD → Digital Twins via PyTwin.
+**Ph.D. nanophotonics researcher** with hands-on semiconductor cleanroom expertise.
 
 </div>
 
