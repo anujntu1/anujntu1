@@ -40,7 +40,7 @@
 
 *SolidWorks · SpaceClaim* &nbsp;→&nbsp; *Fluent · Mechanical · LS-DYNA · Icepak* &nbsp;→&nbsp; *Parametric Study → .rom* &nbsp;→&nbsp; *.twin File* &nbsp;→&nbsp; *Real-time Digital Twin*
 
-**Ph.D. nanophotonics researcher** with hands-on semiconductor cleanroom expertise.
+**Ph.D. in Material Chemistry (NTU)** — hands-on semiconductor cleanroom expertise combined with deep industrial simulation & digital twin engineering.
 
 </div>
 
