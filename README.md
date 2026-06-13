@@ -170,15 +170,15 @@ Applied across: structural, CFD, thermal, aero domains
 
 | Repository | Technique / Domain | Key Concepts |
 |-----------|-------------------|-------------|
-| 🚀 [**ansys-digital-twin-e2e**](https://github.com/anujntu1/ansys-digital-twin-e2e) | **Complete E2E pipeline** — ANSYS Workbench → ROM Prep → Twin Builder → PyTwin → Runtime Monitoring | PyTwin, TwinModel, TwinRuntime, sensor-ROM fusion, Mahalanobis anomaly detection, LHS sampling, dataset generation |
+| 🚀 [**ansys-digital-twin-e2e**](https://github.com/anujntu1/ANSYS-Digital-Twin-End-to-End) | **Complete E2E pipeline** — ANSYS Workbench → ROM Prep → Twin Builder → PyTwin → Runtime Monitoring | PyTwin, TwinModel, TwinRuntime, sensor-ROM fusion, Mahalanobis anomaly detection, LHS sampling, dataset generation |
 | 📊 [**rom-ansys-twin-builder**](https://github.com/anujntu1/ROM-Ansys-Twin-Builder) | **ROM Construction** — POD/SVD basis, RBF/polynomial surrogates, LOO-CV | POD, SVD, RBF interpolation, Latin Hypercube, ANSYS Twin Builder export |
 
 ### 🌊 CFD / Thermal
 
 | Repository | Technique / Domain | Key Concepts |
 |-----------|-------------------|-------------|
-| 💧 [**fluent-advanced-cfd-toolkit**](https://github.com/anujntu1/fluent-advanced-cfd-toolkit) | **3 domains**: Overset Mesh (moving boundary), Automotive Aerodynamics, Icepak Electronics Thermal | VOF, Overset Mesh, k-ω SST, Cd/Cl, heatsink resistance, conjugate HT |
-| 🌬️ [**data-center-cfd-model**](https://github.com/anujntu1/data-center-cfd-model) | **Data center cooling** — rack-level CFD, airflow, PUE/COP | Thermal resistance, Darcy-Weisbach, fan operating point, bypass fraction |
+| 💧 [**fluent-advanced-cfd-toolkit**](https://github.com/anujntu1/Fluent-Advanced-CFD-Toolkit) | **3 domains**: Overset Mesh (moving boundary), Automotive Aerodynamics, Icepak Electronics Thermal | VOF, Overset Mesh, k-ω SST, Cd/Cl, heatsink resistance, conjugate HT |
+| 🌬️ [**data-center-cfd-model**](https://github.com/anujntu1/Data-Center-CFD-Model) | **Data center cooling** — rack-level CFD, airflow, PUE/COP | Thermal resistance, Darcy-Weisbach, fan operating point, bypass fraction |
 
 ### ⚙️ Structural / FEA
 
@@ -190,7 +190,7 @@ Applied across: structural, CFD, thermal, aero domains
 
 | Repository | Technique / Domain | Key Concepts |
 |-----------|-------------------|-------------|
-| 🔭 [**ebl-process-optimization**](https://github.com/anujntu1/ebl-process-optimization) | **EBL process control** — dose optimization, proximity effect correction | Double-Gaussian PSF, iterative PEC, process window, ring resonator patterns |
+| 🔭 [**ebl-process-optimization**](https://github.com/anujntu1/EBL-Process-Optimization) | **EBL process control** — dose optimization, proximity effect correction | Double-Gaussian PSF, iterative PEC, process window, ring resonator patterns |
 
 > 🔧 *Replace `#` links with repository URLs after pushing.*
 
