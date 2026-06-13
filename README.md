@@ -196,6 +196,62 @@ Applied across: structural, CFD, thermal, aero domains
 
 ---
 
+## 🧪 Experimental Research — Nanomaterials & Nanofabrication
+
+> Ph.D. (NTU, 2019–2023) + Postdoctoral Fellow (NTU Photonics & Optoelectronics, 2023–2024)
+> Dual expertise: **nanomaterial synthesis & characterization** (PhD) + **semiconductor device nanofabrication** (Postdoc)
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚗️ Nanomaterial Synthesis (Ph.D.)
+- **Metal Nanoparticle Synthesis** — Ru, Au, Pt nanoparticles anchored on oxide supports (ZrO₂, HfO₂)
+- **Oxide Nanomaterials** — Hydrothermal & solvothermal synthesis of ZrO₂, HfO₂, Ge/GeO nanostructures
+- **3D Nanoarchitectures** — Prism-shaped Ge/GeO nanomaterials with controlled morphology for photocatalysis
+- **Thin Film & Interface Engineering** — PVD, CVD, ALD deposition; surface functionalization for biosensing
+- **Photocatalyst Design** — Visible-light-driven heterogeneous catalysis; degradation of pesticides & antibiotics
+- **Dye-Sensitized Solar Cells & Supercapacitors** — Materials processing & electrochemical characterization
+
+</td>
+<td width="50%">
+
+### 🔬 Device Nanofabrication (Postdoc — NTU)
+- **Electron Beam Lithography (EBL)** — Sub-100 nm patterning of plasmonic waveguides & optical ring-resonators
+- **Advanced Photolithography** — PR profile optimization, dose matrix, CD control for high-resolution patterning
+- **Plasma Etching (RIE/ICP)** — Etch recipe development for GaN, dielectrics; selectivity & anisotropy optimization
+- **PVD / CVD / ALD** — Metal & dielectric thin film deposition; interface engineering for device reliability
+- **GaN Device Processing** — Sidewall treatment (TMAH/H₃PO₄) for GaN vertical transistors
+- **Plasmonic Device Integration** — SAW-actuated signal amplification in plasmonic waveguide structures
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📡 Characterization & Metrology
+- **Electron Microscopy** — SEM & TEM for critical dimension validation, morphology, and defect analysis
+- **Optical Metrology** — Optical inspection for CD uniformity across process integration cycles
+- **Evanescent Wave Spectroscopy** — Cavity Ringdown Spectroscopy (CRDS) for ultrasensitive biosensing
+- **Electrochemical Characterization** — CV, EIS for solar cells and supercapacitor performance
+- **Yield & Process Control** — Statistical process control, dose-CD modelling, defect root-cause analysis
+
+</td>
+<td width="50%">
+
+### 🎯 Research Domains & Applications
+- **Photocatalytic Degradation** — Pesticides (Pendimethalin, Dinotefuran) & antibiotics removal from water
+- **Biosensing** — Prostate-Specific Antigen (PSA) detection via evanescent wave CRDS
+- **Plasmonics** — Surface Acoustic Wave (SAW) actuated signal amplification in plasmonic waveguides
+- **Power Devices** — GaN vertical transistor performance optimization
+- **Nanophotonics** — Optical ring-resonator design & fabrication for integrated photonics
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📚 Selected Publications
 
 <details>
