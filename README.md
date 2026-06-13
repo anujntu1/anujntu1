@@ -171,7 +171,7 @@ Applied across: structural, CFD, thermal, aero domains
 | Repository | Technique / Domain | Key Concepts |
 |-----------|-------------------|-------------|
 | 🚀 [**ansys-digital-twin-e2e**](https://github.com/anujntu1/ANSYS-Digital-Twin-End-to-End) | **Complete E2E pipeline** — ANSYS Workbench → ROM Prep → Twin Builder → PyTwin → Runtime Monitoring | PyTwin, TwinModel, TwinRuntime, sensor-ROM fusion, Mahalanobis anomaly detection, LHS sampling, dataset generation |
-| 📊 [**rom-ansys-twin-builder**](https://github.com/anujntu1/ROM-Ansys-Twin-Builder) | **ROM Construction** — POD/SVD basis, RBF/polynomial surrogates, LOO-CV | POD, SVD, RBF interpolation, Latin Hypercube, ANSYS Twin Builder export |
+| 📊 [**rom-ansys-twin-builder**](https://github.com/anujntu1/ANSYS-Reduced-Order-Modeling) | **ROM Construction** — POD/SVD basis, RBF/polynomial surrogates, LOO-CV | POD, SVD, RBF interpolation, Latin Hypercube, ANSYS Twin Builder export |
 
 ### 🌊 CFD / Thermal
 
@@ -184,7 +184,7 @@ Applied across: structural, CFD, thermal, aero domains
 
 | Repository | Technique / Domain | Key Concepts |
 |-----------|-------------------|-------------|
-| 💥 [**ls-dyna-crash-analysis**](https://github.com/anujntu1/ls-dyna-crash-analysis) | **LS-DYNA non-linear FEA** — high-impact dynamics, energy balance | HIC₁₅, Basquin fatigue, hourglass check, SEA, crash pulse |
+| 💥 [**ls-dyna-crash-analysis**](https://github.com/anujntu1/LS-DYNA-Crash-Analysis) | **LS-DYNA non-linear FEA** — high-impact dynamics, energy balance | HIC₁₅, Basquin fatigue, hourglass check, SEA, crash pulse |
 
 ### 🔬 Nanofabrication (Ph.D.)
 
