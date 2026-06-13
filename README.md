@@ -21,7 +21,7 @@
 
 ## 🔬 Core Expertise
 
-| 🖥️ Industrial Simulation | 🔷 Digital Twins | ⚡ Semiconductor |
+| 🖥️ Industrial Simulation | 🔷 Digital Twins | ⚡ Device Fabrication |
 |:---:|:---:|:---:|
 | ANSYS Fluent · Mechanical | ANSYS ROM Prep | EBL · Photolithography |
 | LS-DYNA · Icepak | Twin Builder · PyTwin | RIE/ICP Plasma Etching |
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-*Bridging the rare gap between nanoscale fabrication and industrial-scale simulation.*
+*Bridging the rare gap between Experimental research and industrial-scale simulation.*
 
 **CAD & Geometry** &nbsp;→&nbsp; **FEA / CFD** &nbsp;→&nbsp; **ROM Prep** &nbsp;→&nbsp; **Twin Builder** &nbsp;→&nbsp; **PyTwin Deploy**
 
@@ -57,7 +57,7 @@
 | ![](https://img.shields.io/badge/ANSYS%20Icepak-FFD700?style=flat-square) **ANSYS Icepak** | Electronics thermal management · CPU/GPU junction temperature · Heatsink design · PCB-level heat flow · Server rack cooling |
 | ![](https://img.shields.io/badge/LS--DYNA-E63946?style=flat-square) **LS-DYNA** | Non-linear FEA · Large-scale deformation · High-impact dynamics · Crash analysis · Energy balance verification |
 | ![](https://img.shields.io/badge/Static%20ROM%20Prep-00B4D8?style=flat-square) **Static ROM Prep** | Design point study · Parametric DOE (LHS/FFD) · ROM training · `.rom` file export |
-| ![](https://img.shields.io/badge/Twin%20Builder-0077B6?style=flat-square) **Twin Builder** | `.rom` → `.twin` compilation · ROM validation (R² > 0.99) · Digital twin deployment |
+| ![](https://img.shields.io/badge/Twin%20Builder-0077B6?style=flat-square) **Twin Builder** | `.rom` → `.twin` compilation · Digital twin deployment |
 
 ### CAD & Geometry
 
@@ -71,8 +71,8 @@
 
 | Tool | Capability |
 |------|-----------|
-| ![](https://img.shields.io/badge/ANSYS%20EnSight-FFB500?style=flat-square) **ANSYS EnSight** | High-fidelity CFD/FEA post-processing · Volume rendering · Streamlines & particle traces · Transient animation · Large dataset handling · Export for reports |
-| ![](https://img.shields.io/badge/ParaView-4285F4?style=flat-square) **ParaView** | Open-source VTK-based visualization · CFD result analysis · Slice/isosurface/glyph rendering · Python scripting for batch post-processing · Cross-platform |
+| ![](https://img.shields.io/badge/ANSYS%20EnSight-FFB500?style=flat-square) **ANSYS EnSight** | High-fidelity CFD/FEA post-processing · Volume rendering · Streamlines & particle traces · Transient animation · Large dataset handling |
+| ![](https://img.shields.io/badge/ParaView-4285F4?style=flat-square) **ParaView** | Open-source VTK-based visualization · CFD result analysis · Slice/isosurface/glyph rendering · Python scripting for batch post-processing |
 
 ### Python & Automation
 
@@ -120,7 +120,7 @@ ANSYS Workbench (FEA/CFD)
     ↓ Parametric study (LHS, 30–200 design points)
 Static ROM Prep → .rom file
     ↓ ANSYS Twin Builder
-Twin file (.twin) validated R² > 0.99
+Twin file (.twin)
     ↓ PyTwin (Python)
 TwinModel / TwinRuntime API
     ↓
@@ -140,62 +140,7 @@ Applied across: structural, CFD, thermal, aero domains
 
 </td>
 </tr>
-<tr>
-<td width="50%">
-
-### 🏗️ CAD Preparation
-- **SolidWorks** — parametric 3D modeling, assembly management, BOM
-- **ANSYS SpaceClaim** — rapid geometry cleanup, defeaturing, fluid domain creation for CFD meshing, STL repair
-- **Design for Simulation** — simplifying CAD for mesh quality and solver efficiency
-
-</td>
-<td width="50%">
-
-### 🔬 Semiconductor Nanofabrication (Ph.D.)
-- **EBL (Electron Beam Lithography)** — sub-100 nm patterning, plasmonic waveguides, ring resonators
-- **Advanced Photolithography** — PR optimization, CD control, dose matrix
-- **Plasma Etching (RIE/ICP)** — etch recipe development, selectivity optimization
-- **PVD / CVD / ALD** — thin film deposition, interface engineering
-- **SEM / TEM Metrology** — critical dimension validation, defect analysis
-
-</td>
-</tr>
 </table>
-
----
-
-## 📂 Repositories
-
-> All repositories demonstrate **techniques, methods, and workflows** — not proprietary project details.
-> Code is generalized from industrial experience to be educational and openly reproducible.
-
-### ⭐ Core Pipeline
-
-| Repository | Technique / Domain | Key Concepts |
-|-----------|-------------------|-------------|
-| 🚀 [**ansys-digital-twin-e2e**](https://github.com/anujntu1/ANSYS-Digital-Twin-End-to-End) | **Complete E2E pipeline** — ANSYS Workbench → ROM Prep → Twin Builder → PyTwin → Runtime Monitoring | PyTwin, TwinModel, TwinRuntime, sensor-ROM fusion, Mahalanobis anomaly detection, LHS sampling, dataset generation |
-| 📊 [**rom-ansys-twin-builder**](https://github.com/anujntu1/ANSYS-Reduced-Order-Modeling) | **ROM Construction** — POD/SVD basis, RBF/polynomial surrogates, LOO-CV | POD, SVD, RBF interpolation, Latin Hypercube, ANSYS Twin Builder export |
-
-### 🌊 CFD / Thermal
-
-| Repository | Technique / Domain | Key Concepts |
-|-----------|-------------------|-------------|
-| 💧 [**fluent-advanced-cfd-toolkit**](https://github.com/anujntu1/Fluent-Advanced-CFD-Toolkit) | **3 domains**: Overset Mesh (moving boundary), Automotive Aerodynamics, Icepak Electronics Thermal | VOF, Overset Mesh, k-ω SST, Cd/Cl, heatsink resistance, conjugate HT |
-| 🌬️ [**data-center-cfd-model**](https://github.com/anujntu1/Data-Center-CFD-Model) | **Data center cooling** — rack-level CFD, airflow, PUE/COP | Thermal resistance, Darcy-Weisbach, fan operating point, bypass fraction |
-
-### ⚙️ Structural / FEA
-
-| Repository | Technique / Domain | Key Concepts |
-|-----------|-------------------|-------------|
-| 💥 [**ls-dyna-crash-analysis**](https://github.com/anujntu1/LS-DYNA-Crash-Analysis) | **LS-DYNA non-linear FEA** — high-impact dynamics, energy balance | HIC₁₅, Basquin fatigue, hourglass check, SEA, crash pulse |
-
-### 🔬 Nanofabrication (Ph.D.)
-
-| Repository | Technique / Domain | Key Concepts |
-|-----------|-------------------|-------------|
-| 🔭 [**ebl-process-optimization**](https://github.com/anujntu1/EBL-Process-Optimization) | **EBL process control** — dose optimization, proximity effect correction | Double-Gaussian PSF, iterative PEC, process window, ring resonator patterns |
-
-> 🔧 *Replace `#` links with repository URLs after pushing.*
 
 ---
 
@@ -255,6 +200,39 @@ Applied across: structural, CFD, thermal, aero domains
 
 ---
 
+## 📂 Repositories
+
+> All repositories demonstrate **techniques, methods, and workflows** — not proprietary project details.
+> Code is generalized from industrial experience to be educational and openly reproducible.
+
+### ⭐ Core Pipeline
+
+| Repository | Technique / Domain | Key Concepts |
+|-----------|-------------------|-------------|
+| 🚀 [**ANSYS-Digital-Twin-End-to-End**](https://github.com/anujntu1/ANSYS-Digital-Twin-End-to-End) | **Complete E2E pipeline** — ANSYS Workbench → ROM Prep → Twin Builder → PyTwin → Runtime Monitoring | PyTwin, TwinModel, TwinRuntime, sensor-ROM fusion, Mahalanobis anomaly detection, LHS sampling, dataset generation |
+| 📊 [**ANSYS-Reduced-Order-Modeling**](https://github.com/anujntu1/ANSYS-Reduced-Order-Modeling) | **ROM Construction** — POD/SVD basis, RBF/polynomial surrogates, LOO-CV | POD, SVD, RBF interpolation, Latin Hypercube, ANSYS Twin Builder export |
+
+### 🌊 CFD / Thermal
+
+| Repository | Technique / Domain | Key Concepts |
+|-----------|-------------------|-------------|
+| 💧 [**Fluent-Advanced-CFD-Toolkit**](https://github.com/anujntu1/Fluent-Advanced-CFD-Toolkit) | **3 domains**: Overset Mesh (moving boundary), Automotive Aerodynamics, Icepak Electronics Thermal | VOF, Overset Mesh, k-ω SST, Cd/Cl, heatsink resistance, conjugate HT |
+| 🌬️ [**Data-Center-CFD-Model**](https://github.com/anujntu1/Data-Center-CFD-Model) | **Data center cooling** — rack-level CFD, airflow, PUE/COP | Thermal resistance, Darcy-Weisbach, fan operating point, bypass fraction |
+
+### ⚙️ Structural / FEA
+
+| Repository | Technique / Domain | Key Concepts |
+|-----------|-------------------|-------------|
+| 💥 [**LS-DYNA-Crash-Analysis**](https://github.com/anujntu1/LS-DYNA-Crash-Analysis) | **LS-DYNA non-linear FEA** — high-impact dynamics, energy balance | HIC₁₅, Basquin fatigue, hourglass check, SEA, crash pulse |
+
+### 🔬 Nanofabrication (Ph.D.)
+
+| Repository | Technique / Domain | Key Concepts |
+|-----------|-------------------|-------------|
+| 🔭 [**Semiconductor-Device-Fabrication**](https://github.com/anujntu1/Semiconductor-Device-Fabrication) | **EBL process control** — dose optimization, proximity effect correction | Double-Gaussian PSF, iterative PEC, process window, ring resonator patterns |
+
+---
+
 ## 📚 Selected Publications
 
 <details>
@@ -266,7 +244,7 @@ Applied across: structural, CFD, thermal, aero domains
    *"Performance Comparisons of GaN Vertical Transistors with Sidewalls Treated by TMAH and H₃PO₄ Solutions"*
    📰 **IEEE Electron Device Letters**, Vol. 45, 2024
 
-2. **Rohit Gupta, ... Anuj Chauhan, et al.**
+2. **Rohit Chauhan, ... Anuj Chauhan, et al.**
    *"Surface Acoustic Wave Actuated Plasmonic Signal Amplification in a Plasmonic Waveguide"*
    📰 **Discover Nano**, Vol. 19, 2024
 
@@ -303,33 +281,12 @@ Applied across: structural, CFD, thermal, aero domains
 ## 💼 Career Timeline
 
 ```
-2025–Present  │  Section Manager, Software R&D     │  Pegatron Corporation, Taipei
+2025–Present  │  Software R&D                      │  Pegatron Corporation, Taipei
 2024–2025     │  Technical Manager, Software R&D   │  Pegatron Corporation, Taipei
 2023–2024     │  Postdoctoral Fellow                │  NTU — Photonics & Optoelectronics
 2019–2023     │  Ph.D., Chemistry                  │  National Taiwan University ⭐ Scholarship
 2018          │  Research Assistant                 │  Sharda University, India
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujntu1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anujntu1&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📄 Download Resume
-
-<div align="center">
-
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-Anuj%20Chauhan%20Ph.D.-009688?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/anujntu1/anujntu1/raw/main/Resume_Anuj_Chauhan.pdf)
-
-</div>
 
 ---
 
@@ -341,6 +298,17 @@ Applied across: structural, CFD, thermal, aero domains
 - 🟣 **Automotive / Aerospace CFD** — aerodynamics, thermal, fluid-structure interaction
 
 📬 **anujntuchem@gmail.com** · 📞 (+886) 900 77 4505 · 🌐 Taipei, Taiwan — Open to relocation
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujntu1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anujntu1&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
