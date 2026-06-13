@@ -36,7 +36,7 @@
 
 *Bridging the rare gap between nanoscale fabrication and industrial-scale simulation.*
 
-[![](https://img.shields.io/badge/CAD_%26_Geometry-SolidWorks_%C2%B7_SpaceClaim-555555?style=flat-square)]()&nbsp;**→**&nbsp;[![](https://img.shields.io/badge/FEA_%2F_CFD-Fluent_%C2%B7_Mechanical_%C2%B7_LS--DYNA_%C2%B7_Icepak-555555?style=flat-square)]()&nbsp;**→**&nbsp;[![](https://img.shields.io/badge/ROM_Prep-Parametric_Study_%E2%86%92_.rom-555555?style=flat-square)]()&nbsp;**→**&nbsp;[![](https://img.shields.io/badge/Twin_Builder-.twin_File-555555?style=flat-square)]()&nbsp;**→**&nbsp;[![](https://img.shields.io/badge/PyTwin_Deploy-Real--time_Digital_Twin-555555?style=flat-square)]()
+[![](https://img.shields.io/badge/CAD_%26_Geometry-SolidWorks_%C2%B7_SpaceClaim-lightgrey?style=for-the-badge)]()&nbsp;**→**&nbsp;[![](https://img.shields.io/badge/FEA_%2F_CFD-Fluent_%C2%B7_Mechanical_%C2%B7_LS--DYNA_%C2%B7_Icepak-lightgrey?style=for-the-badge)]()&nbsp;**→**&nbsp;[![](https://img.shields.io/badge/ROM_Prep-Parametric_Study_%E2%86%92_.rom-lightgrey?style=for-the-badge)]()&nbsp;**→**&nbsp;[![](https://img.shields.io/badge/Twin_Builder-.twin_File-lightgrey?style=for-the-badge)]()&nbsp;**→**&nbsp;[![](https://img.shields.io/badge/PyTwin_Deploy-Real--time_Digital_Twin-lightgrey?style=for-the-badge)]()
 
 **Ph.D. nanophotonics researcher** with hands-on semiconductor cleanroom expertise.
 
