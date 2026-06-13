@@ -144,28 +144,27 @@ Applied across: structural, CFD, thermal, aero domains
 
 | Repository | Technique / Domain | Key Concepts |
 |-----------|-------------------|-------------|
-| 🚀 [**ansys-digital-twin-e2e**](#) | **Complete E2E pipeline** — ANSYS Workbench → ROM Prep → Twin Builder → PyTwin → ML data | PyTwin, TwinModel, TwinRuntime, LHS sampling, Sobol sensitivity, dataset generation |
-| 📊 [**rom-ansys-twin-builder**](#) | **ROM Construction** — POD/SVD basis, RBF/polynomial surrogates, LOO-CV | POD, SVD, RBF interpolation, Latin Hypercube, ANSYS Twin Builder export |
-| 🤖 [**digital-twin-pipeline**](#) | **Runtime digital twin** — sensor-ROM fusion, anomaly detection, YAML config | Mahalanobis distance, rolling stats, PyTwin integration |
+| 🚀 [**ansys-digital-twin-e2e**](https://github.com/anujntu1/ansys-digital-twin-e2e) | **Complete E2E pipeline** — ANSYS Workbench → ROM Prep → Twin Builder → PyTwin → Runtime Monitoring | PyTwin, TwinModel, TwinRuntime, sensor-ROM fusion, Mahalanobis anomaly detection, LHS sampling, dataset generation |
+| 📊 [**rom-ansys-twin-builder**](https://github.com/anujntu1/ROM-Ansys-Twin-Builder) | **ROM Construction** — POD/SVD basis, RBF/polynomial surrogates, LOO-CV | POD, SVD, RBF interpolation, Latin Hypercube, ANSYS Twin Builder export |
 
 ### 🌊 CFD / Thermal
 
 | Repository | Technique / Domain | Key Concepts |
 |-----------|-------------------|-------------|
-| 💧 [**fluent-advanced-cfd-toolkit**](#) | **3 domains**: Overset Mesh (moving boundary), Automotive Aerodynamics, Icepak Electronics Thermal | VOF, Overset Mesh, k-ω SST, Cd/Cl, heatsink resistance, conjugate HT |
-| 🌬️ [**data-center-cfd-model**](#) | **Data center cooling** — rack-level CFD, airflow, PUE/COP | Thermal resistance, Darcy-Weisbach, fan operating point, bypass fraction |
+| 💧 [**fluent-advanced-cfd-toolkit**](https://github.com/anujntu1/fluent-advanced-cfd-toolkit) | **3 domains**: Overset Mesh (moving boundary), Automotive Aerodynamics, Icepak Electronics Thermal | VOF, Overset Mesh, k-ω SST, Cd/Cl, heatsink resistance, conjugate HT |
+| 🌬️ [**data-center-cfd-model**](https://github.com/anujntu1/data-center-cfd-model) | **Data center cooling** — rack-level CFD, airflow, PUE/COP | Thermal resistance, Darcy-Weisbach, fan operating point, bypass fraction |
 
 ### ⚙️ Structural / FEA
 
 | Repository | Technique / Domain | Key Concepts |
 |-----------|-------------------|-------------|
-| 💥 [**ls-dyna-crash-analysis**](#) | **LS-DYNA non-linear FEA** — high-impact dynamics, energy balance | HIC₁₅, Basquin fatigue, hourglass check, SEA, crash pulse |
+| 💥 [**ls-dyna-crash-analysis**](https://github.com/anujntu1/ls-dyna-crash-analysis) | **LS-DYNA non-linear FEA** — high-impact dynamics, energy balance | HIC₁₅, Basquin fatigue, hourglass check, SEA, crash pulse |
 
 ### 🔬 Nanofabrication (Ph.D.)
 
 | Repository | Technique / Domain | Key Concepts |
 |-----------|-------------------|-------------|
-| 🔭 [**ebl-process-optimization**](#) | **EBL process control** — dose optimization, proximity effect correction | Double-Gaussian PSF, iterative PEC, process window, ring resonator patterns |
+| 🔭 [**ebl-process-optimization**](https://github.com/anujntu1/ebl-process-optimization) | **EBL process control** — dose optimization, proximity effect correction | Double-Gaussian PSF, iterative PEC, process window, ring resonator patterns |
 
 > 🔧 *Replace `#` links with repository URLs after pushing.*
 
