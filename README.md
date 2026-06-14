@@ -11,7 +11,12 @@
 [![Email](https://img.shields.io/badge/Email-anujntuchem%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anujntuchem@gmail.com)
 [![Taiwan Gold Card](https://img.shields.io/badge/Taiwan%20Employment-Gold%20Card%20Holder-FFD700?style=for-the-badge)](https://goldcard.nat.gov.tw)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=B9VmvLUAAAAJ&hl=en)
-[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-009688?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/anujntu1/anujntu1/raw/main/Resume_Anuj_Chauhan.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-009688?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/anujntu1/anujntu1/raw/main/Resume-Anuj_.pdf)
+
+<br>
+
+<img src="qr_code.png" width="110" alt="Scan to connect"/><br>
+<sub>📲 Scan to connect — LinkedIn · GitHub · Resume · Google Scholar</sub>
 
 </div>
 
