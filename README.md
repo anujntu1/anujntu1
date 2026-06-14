@@ -1,11 +1,12 @@
-<div align="center">
+<table width="100%"><tr>
+<td valign="top" width="75%">
 
-# Anuj Chauhan — Ph.D.
+<h1>Anuj Chauhan — Ph.D.</h1>
 
-### 🏭 Software R&D &nbsp;|&nbsp; Pegatron Corporation, Taipei
-### 🎓 Ph.D. Chemistry · National Taiwan University (NTU) · 2019–2023
+<b>🏭 Software R&D &nbsp;|&nbsp; Pegatron Corporation, Taipei</b><br>
+<b>🎓 Ph.D. Chemistry · National Taiwan University (NTU) · 2019–2023</b>
 
-<br>
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anuj%20Chauhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-chauhan-phd-5a8ba411a/)
 [![Email](https://img.shields.io/badge/Email-anujntuchem%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anujntuchem@gmail.com)
@@ -13,12 +14,15 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=B9VmvLUAAAAJ&hl=en)
 [![Resume](https://img.shields.io/badge/Resume-Download%20PDF-009688?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/anujntu1/anujntu1/raw/main/Resume-Anuj_.pdf)
 
-<br>
+</td>
+<td valign="top" align="center" width="25%">
 
-<img src="qr_code.png" width="110" alt="Scan to connect"/><br>
-<sub>📲 Scan to connect — LinkedIn · GitHub · Resume · Google Scholar</sub>
+<img src="qr_code.png" width="160" alt="Scan to connect"/><br>
+<sub>📲 <b>Scan to connect</b></sub><br>
+<sub>LinkedIn · GitHub · Resume · Scholar</sub>
 
-</div>
+</td>
+</tr></table>
 
 ---
 
