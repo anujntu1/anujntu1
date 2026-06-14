@@ -2,9 +2,9 @@
 <td valign="top" width="75%">
 
 <h1>Anuj Chauhan — Ph.D.</h1>
-
+<h3>Industrial Simulation Engineer &nbsp;·&nbsp; Digital Twin Architect</h3>
 <b>🏭 Software R&D &nbsp;|&nbsp; Pegatron Corporation, Taipei</b><br>
-<b>🎓 Ph.D. Chemistry · National Taiwan University (NTU) · 2019–2023</b>
+<b>🎓 Ph.D. · National Taiwan University (NTU) &nbsp;|&nbsp; Taiwan Employment Gold Card Holder</b>
 
 <br><br>
 
